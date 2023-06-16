@@ -169,6 +169,8 @@ function getProductsList() {
     return productsList;
 }
 makeReservation();
+//muestra el array de reservaciones si hay + de uno. 
+console.log(camping.reservations);
 
 
 
